@@ -30,7 +30,10 @@ export const LandingPage = () => {
         <CardDiv>
           <StyledName>Patrick Bateman</StyledName>
           <StyledJob>Vice president at mergers and acquisitions</StyledJob>
-          <StyledA href="https://thomasr1997.github.io/Paul-Allen-s-card/">
+          <StyledA
+            href="https://thomasr1997.github.io/Paul-Allen-s-card/"
+            target="_blank"
+          >
             My colleague's card
           </StyledA>
 
